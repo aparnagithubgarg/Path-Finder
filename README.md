@@ -1,4 +1,4 @@
-# Path Finding Visualizer
+# Path Finder
 
 A interactive web application that visualizes Dijkstra's algorithm finding the shortest path on a weighted grid. Built with pure HTML, CSS, and JavaScript.
 
